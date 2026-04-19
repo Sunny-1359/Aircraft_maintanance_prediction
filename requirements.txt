@@ -1,0 +1,12 @@
+Flask
+
+Pandas
+Numpy
+liquidnet
+scikit-learn
+torch
+torchvision
+torchaudio
+matplotlib
+streamlit
+seaborn
